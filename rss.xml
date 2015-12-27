@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Larry Wei]]></title>
         <description><![CDATA[Larry Wei]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/larry-wei/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 18:37:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 18:41:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/larry-wei/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My very first draft]]></title>
+            <description><![CDATA[<article><h1>My very first draft</h1><p>This is my first draft on Grid</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0191143ff2357461aecbc3d86621582f7dd8f361.jpg"></article>]]></description>
+            <link>https://thegrid.ai/larry-wei/my-very-first-draft/index.html</link>
+            <guid isPermaLink="false">cd493fba-5ebf-41d1-bf78-c13a5b558034</guid>
+            <pubDate>Sun, 27 Dec 2015 18:41:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My First Draft]]></title>
-            <description><![CDATA[<article><h1>My First Draft</h1><p>This is my first draft on Grid</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97c50c18-a43f-4af5-a167-214b3733c957.jpg"></article>]]></description>
-            <link>undefinedmy-first-draft/index.html</link>
+            <description><![CDATA[<article><h1>My First Draft</h1><p>This is my first draft on Grid</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61f2d561626dc106dfe580fec49f838a0430a189.jpg"></article>]]></description>
+            <link>https://thegrid.ai/larry-wei/my-first-draft/index.html</link>
             <guid isPermaLink="false">b5f976e6-dacd-4681-9451-5a6b9422e794</guid>
             <pubDate>Sun, 27 Dec 2015 18:37:18 GMT</pubDate>
         </item>
