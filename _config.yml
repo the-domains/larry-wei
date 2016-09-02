@@ -1,19 +1,4 @@
-name: Larry Wei
-favicon: null
-layout_spectrum: 0.77387
 typography_spectrum: 0.23589
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,20 @@ color:
   lightness: 0.43587764422409236
   saturation: 0.6587528304662555
   rhythmicContrast: 0.5048980223946273
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.77387
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Larry Wei
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 测试
 purpose: []
